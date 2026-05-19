@@ -44,7 +44,7 @@ git clone https://github.com/rodriguezmosqueraluisleonardo-wq/Proyecto-Final-Tel
 # Entrar al proyecto
 
 ```bash
-cd Proyecto-Final-Telematica
+cd TelematicaProyectoFinal
 ```
 
 ---
