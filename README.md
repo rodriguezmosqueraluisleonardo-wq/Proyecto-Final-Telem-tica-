@@ -36,7 +36,7 @@ Instalar:
 # Clonar el repositorio
 
 ```bash
-git clone https://github.com/Luis_2006/Proyecto-Final-Telematica.git
+git clone https://github.com/rodriguezmosqueraluisleonardo-wq/Proyecto-Final-Telem-tica-.git
 ```
 
 ---
